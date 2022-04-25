@@ -16,3 +16,11 @@
 [Melon*Diversity*정량적\_해석.pdf](https://github.com/20180707jun/portfolio/blob/master/portfolio/Melon_Diversity_정량적_해석.pdf)
 
 - melon(음악플랫폼)에서 Diversity를 정량화하고 분석하는 프로젝트입니다.
+
+### in Naver Boostcamp AI Tech
+
+[마스크*분류모델*대회(10일).pdf](https://github.com/20180707jun/portfolio/blob/master/portfolio/Melon_Diversity_정량적_해석.pdf)
+
+- 마스크 쓴 인물 사진의 나이와 마스크 착용 여부, 성별을 맞추는 대회입니다.
+- Baseline code와 Tensor board를 이용한 시각화 코드를 작성했습니다.
+  13th of 38teams
