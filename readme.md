@@ -19,7 +19,7 @@
 
 ### in Naver Boostcamp AI Tech
 
-[마스크*분류모델*대회(10일).pdf](https://github.com/20180707jun/portfolio/blob/master/portfolio/Melon_Diversity_정량적_해석.pdf)
+[마스크*분류모델*대회(10일).pdf](<https://github.com/20180707jun/portfolio/blob/master/portfolio/%EB%A7%88%EC%8A%A4%ED%81%AC_%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8_%EB%8C%80%ED%9A%8C(10%EC%9D%BC).pdf>)
 
 - 마스크 쓴 인물 사진의 나이와 마스크 착용 여부, 성별을 맞추는 대회입니다.
 - Baseline code와 Tensor board를 이용한 시각화 코드를 작성했습니다.
