@@ -12,6 +12,7 @@
 
 - Piccoma(만화플랫폼)의 연관추천을 개선하는 프로젝트입니다.
 - 회사에서 사용하는 pipe line을 경험해보고 이해해볼 수 있었습니다.
+- [배포*후\_kafka*이슈*해결*과정.pdf](https://github.com/20180707jun/portfolio/blob/master/portfolio/배포_후_kafka_이슈_해결_과정.pdf)
 
 [Melon*Diversity*정량적\_해석.pdf](https://github.com/20180707jun/portfolio/blob/master/portfolio/Melon_Diversity_정량적_해석.pdf)
 
