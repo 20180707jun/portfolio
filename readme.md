@@ -6,7 +6,7 @@
 - log를 flume으로 수집한 후, HDFS와 kafka로 넘깁니다.
 - kafka로 넘긴 데이터는 변형되어 MongoDB에 저장됩니다.
 
-[Data_pipeline_project(확장).pdf](<https://github.com/20180707jun/portfolio/blob/master/portfolio/Data_pipeline_project(확장).pdf>)
+[Data_pipeline_project(확장).pdf](<https://github.com/20180707jun/portfolio/blob/master/portfolio/Data_Pipeline_Project(확장).pdf>)
 
 - 위의 프로젝트를 좀 더 개선하였습니다.
 - hdfs 적재 이후, zeppelin을 통한 대시보드를 도입했습니다.
