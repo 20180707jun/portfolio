@@ -6,6 +6,12 @@
 - log를 flume으로 수집한 후, HDFS와 kafka로 넘깁니다.
 - kafka로 넘긴 데이터는 변형되어 MongoDB에 저장됩니다.
 
+[Data_pipeline_project(확장).pdf](<https://github.com/20180707jun/portfolio/blob/master/portfolio/Data_pipeline_project(확장).pdf>)
+
+- 위의 프로젝트를 좀 더 개선하였습니다.
+- hdfs 적재 이후, zeppelin을 통한 대시보드를 도입했습니다.
+- transformer에 대한 처리를 모니터링하기위해, 카프카 랙을 grafana로 모니터링 대시보드를 만들었습니다.
+
 ### in kakao
 
 [Piccoma*연관추천*개선\_프로젝트.pdf](https://github.com/20180707jun/portfolio/blob/master/portfolio/Piccoma_연관추천_개선_프로젝트.pdf)
